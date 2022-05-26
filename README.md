@@ -1,5 +1,5 @@
 # Habit_Tracking_Using_Pixela_API
-HTTP Requests
+HTTP Requests in Python.
   * GET
   * POST
   * PUT
